@@ -49,6 +49,23 @@ label{
     padding : 1rem 0rem;
 }
 
+.list-non-bullet {
+    list-style: none;
+    font-weight: bolder;
+    display: block;
+    text-align: center;
+    padding-inline-start: 0px;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+
 footer p{
     padding-top: 7rem;
     text-align: center;
